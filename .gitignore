@@ -112,6 +112,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+tmu_venv/
+.idea/
 
 # Spyder project settings
 .spyderproject
@@ -130,3 +132,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+tmu_venv/Scripts/accelerate-config.exe
+.idea/misc.xml
